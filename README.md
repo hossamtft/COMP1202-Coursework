@@ -35,3 +35,6 @@ skills.
 The main purpose of EcsSim is to build facilities and to hire staff using “EcsCoins” (the
 simulation currency) to create a successful university. The university will gain its reputation
 and EcsCoins by teaching the students.
+
+The format of running file is java EcsSim <Staff_Configuration_File> <Initial_Funding> <Years_To_Simulate>
+Staff text file should be in the format of : "Name (Skill)"
